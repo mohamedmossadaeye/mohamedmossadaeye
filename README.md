@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mohamedmossadaeye
 - 👀 I’m interested in Deep Learning Research
-- 🌱 I’m currently learning Blockchains
-- 📫 How to reach me +20110014063
+- 📫 How to reach me +201100148063
 
 <!---
 mohamedmossadaeye/mohamedmossadaeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
